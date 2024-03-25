@@ -32,9 +32,12 @@
             <p id="anketa2" class="hidden">Esam pārsteigti, ka 40% aptaujāto datu aizsardzībai izmanto īpašas programmas. Bet 60% aptaujāto nav nevienas aizsardzības savām ierīcēm.</p>
            <li> <a href= "Screenshot 2024-03-25 094959.jpg">Anketas rezultāti 3: </a> </li>
 
+          </head>
+<body>
           <h2>LOGOTIPS:</h2>
           <li> <a href= "LOGO.jpg">Logotips </a> </li>
-
+</head>
+<body>
           <h2>INTERFACE:</h2>
           <li> <a href= "interface.pdf">Interface here!!! </a> </li>
 
