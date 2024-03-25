@@ -11,7 +11,7 @@
     <h1 onclick="toggleVisibility('merkis')">Mērķis:</h1>
     <p id="merkis" class="hidden">Informēt cilvēkus par drošības noteikumiem internētā, lai izvairītos no nepatīkamiem vai gan arī bīstamam situācijām.</p>
 
-</head>
+</head> 
 <body>
     <h1 onclick="toggleVisibility('uzdevumi')">Uzdevumi:</h1>
     <p id="uzdevumi" class="hidden">Informēt par personas datu aizsardzību; Pastastīt kā pasargāt sevi no uzlaušanas; Pastastīt kur vērsties pēc palīdzības.</p>
