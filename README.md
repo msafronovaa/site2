@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projekts “Drošība sociālajos tīklos”</title>
+    Projekts “Drošība sociālajos tīklos
     <style>
         .hidden {
             display: none;
         }
     </style>
-  <h2>PROJEKTS. DROŠĪBA SOCIĀLĀJOS TĪKLOS.</h2>
+
 </head>
 <body>
     <h1 onclick="toggleVisibility('merkis')">Mērķis:</h1>
