@@ -3,12 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Projekts “Drošība sociālajos tīklos
-    <style>
-        .hidden {
-            display: none;
-        }
-    </style>
+    Projekts “Drošība sociālajos tīklos"
+  
 
 </head>
 <body>
