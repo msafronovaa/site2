@@ -32,7 +32,7 @@
             <p id="anketa2" class="hidden">Esam pārsteigti, ka 40% aptaujāto datu aizsardzībai izmanto īpašas programmas. Bet 60% aptaujāto nav nevienas aizsardzības savām ierīcēm.</p>
            <li> <a href= "Screenshot 2024-03-25 094959.jpg">Anketas rezultāti 3: </a> </li>
 
-          </head>
+</head>
 <body>
           <h2>LOGOTIPS:</h2>
           <li> <a href= "LOGO.jpg">Logotips </a> </li>
@@ -43,15 +43,4 @@
 
    
 
-    <script>
-        function toggleVisibility(id) {
-            var element = document.getElementById(id);
-            if (element.classList.contains('hidden')) {
-                element.classList.remove('hidden');
-            } else {
-                element.classList.add('hidden');
-            }
-        }
-    </script>
-</body>
-</html>
+   
